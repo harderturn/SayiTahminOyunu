@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SinavProjesiBurak</string>
+    <string name="txt_baslat">Başlatmak için tıklayınız !</string>
+    <string name="tahmin_girin">Tahmin girin !</string>
+    <string name="tahmin_hint">1-100 arası bir sayı girin</string>
+    <string name="kalan_hak">Kalan hakkınız </string>
+    <string name="tahmin_dogru">Tebrikler tahmininiz doğru !</string>
+    <string name="tahmin_yanlis">Tahmininiz Yanlış !</string>
+    <string name="tahmin_sayisi"> seferde buldunuz !</string>
+    <string name="haklar_bitti">Haklarınız Bitti !</string>
+
+</resources>
